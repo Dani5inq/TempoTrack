@@ -65,6 +65,15 @@ button[disabled] {
   cursor: default;
 }
 
+.footer {
+  margin-bottom: 0;
+  font-size: 10px;
+  text-align: center;
+}
+#hat {
+  color: red;
+}
+
 @media (max-width: 800px) {
   body {
     padding: 20px;
